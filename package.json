@@ -1,0 +1,26 @@
+{
+  "name": "currencyconverter",
+  "version": "1.0.0",
+  "description": "project 5 ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimraarshad556/CurrencyConverter.git"
+  },
+  "author": "Nimxx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimraarshad556/CurrencyConverter/issues"
+  },
+  "homepage": "https://github.com/nimraarshad556/CurrencyConverter#readme",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
